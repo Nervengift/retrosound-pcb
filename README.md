@@ -29,3 +29,9 @@ When not using SW5, solder JP1 closed. This will bridge SW5 to be always closed.
 | LS1       | speaker   | solder directly or add screw terminal (5mm pitch) |
 | SW5       |           | (optional, not included originally) add a 2.54mm pitch switch or jumper to switch the battery power on and off |
 | JP1       |           | solder closed if not using SW5 to force it closed |
+
+# License
+
+[CC0](https://creativecommons.org/share-your-work/public-domain/cc0/)
+
+But please drop me a note if you do something fun with it :)
