@@ -2,7 +2,7 @@
 
 ![Photo of the full assembly](/photo.jpg)
 
-This is a PCB for the "Retrosound Adventskalender" by Franzis press.
+This is a PCB for the "Elektronik-Retro-Sound Adventskalender" by Franzis press.
 
 The original kit is built on breadboard but I wanted a more durable solution taking less space and made a quick PCB design for it.
 
