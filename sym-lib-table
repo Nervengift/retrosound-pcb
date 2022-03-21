@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name soundchip)(type Legacy)(uri ${KIPRJMOD}/soundchip.lib)(options "")(descr ""))
+)
