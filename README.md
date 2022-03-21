@@ -32,6 +32,6 @@ When not using SW5, solder JP1 closed. This will bridge SW5 to be always closed.
 
 # License
 
-[CC0](https://creativecommons.org/share-your-work/public-domain/cc0/)
+[CC0](https://creativecommons.org/share-your-work/public-domain/cc0/), some rights might be reserved by Franzis for the original kit.
 
 But please drop me a note if you do something fun with it :)
